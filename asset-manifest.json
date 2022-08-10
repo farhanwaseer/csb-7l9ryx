@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://farhanwaseer.github.io/csb-7l9ryx/static/css/main.e69763dc.chunk.css",
+    "main.js": "https://farhanwaseer.github.io/csb-7l9ryx/static/js/main.8bc77344.chunk.js",
+    "main.js.map": "https://farhanwaseer.github.io/csb-7l9ryx/static/js/main.8bc77344.chunk.js.map",
+    "runtime-main.js": "https://farhanwaseer.github.io/csb-7l9ryx/static/js/runtime-main.1c94d305.js",
+    "runtime-main.js.map": "https://farhanwaseer.github.io/csb-7l9ryx/static/js/runtime-main.1c94d305.js.map",
+    "static/js/2.2cfe9213.chunk.js": "https://farhanwaseer.github.io/csb-7l9ryx/static/js/2.2cfe9213.chunk.js",
+    "static/js/2.2cfe9213.chunk.js.map": "https://farhanwaseer.github.io/csb-7l9ryx/static/js/2.2cfe9213.chunk.js.map",
+    "index.html": "https://farhanwaseer.github.io/csb-7l9ryx/index.html",
+    "static/css/main.e69763dc.chunk.css.map": "https://farhanwaseer.github.io/csb-7l9ryx/static/css/main.e69763dc.chunk.css.map",
+    "static/js/2.2cfe9213.chunk.js.LICENSE.txt": "https://farhanwaseer.github.io/csb-7l9ryx/static/js/2.2cfe9213.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c94d305.js",
+    "static/js/2.2cfe9213.chunk.js",
+    "static/css/main.e69763dc.chunk.css",
+    "static/js/main.8bc77344.chunk.js"
+  ]
+}
